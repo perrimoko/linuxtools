@@ -1,0 +1,1 @@
+Para que funcione no funciona al parecer con USB, SOLO WIFI. IMportante instalar wifi.
