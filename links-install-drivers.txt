@@ -1,0 +1,6 @@
+==================================================
+Instalar wifi-in-debian
+How to Install Broadcom WiFi Driver in Debian
+https://youtu.be/JW0f3NOjWys
+===================================================
+
